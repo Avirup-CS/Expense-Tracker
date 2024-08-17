@@ -266,5 +266,5 @@ while(True):
             sys.exit()
 
         case _:
-             print("Invalid choice!! Please enter a number between 1 and 8.\n")
+             print("Invalid choice!! Please enter a number between 1 and 9.\n")
         
